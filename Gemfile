@@ -7,5 +7,5 @@ gem "just-the-docs", "0.7.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 gem 'nokogiri'
-gem 'rack', '~> 2.2.4'
+gem 'rack', '~> 3.0.10'
 gem 'rspec'
